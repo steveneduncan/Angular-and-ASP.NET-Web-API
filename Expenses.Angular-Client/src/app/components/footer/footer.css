@@ -1,0 +1,8 @@
+/* Make the footer span the full width and stick to the bottom */
+.app-footer {
+	width: 100vw;
+	left: 0;
+	bottom: 0;
+	position: fixed;
+	z-index: 100;
+}
